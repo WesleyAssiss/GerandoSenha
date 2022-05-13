@@ -1,3 +1,2 @@
 # GerandoSenha
-Encontrar senha para 
-descriptografar arquivo.
+Encontrando senha para descriptografar arquivo.
