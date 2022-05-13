@@ -10,7 +10,7 @@ public  class Trabalhador extends Thread {
     public Trabalhador(){
         
     }
-    //Onde o arquivo está localizado.
+    //Onde o arquivo está localizado. Para realização de teste, apenas mude o local onde está localizado o arquivo.
        ZipFile zipFile = new ZipFile(new File("C:\\Users\\Downloads\\ArquivoSenha"));
 
     public ZipFile getZipFile() {
